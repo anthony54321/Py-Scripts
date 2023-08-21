@@ -1,3 +1,5 @@
+### Beginner project. Using to add numbers together ###
+
 #create an integer variable for x
 x = int(0)
 #create an integer variable for y
